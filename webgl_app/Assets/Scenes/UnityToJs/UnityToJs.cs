@@ -18,5 +18,5 @@ public class UnityToJs : MonoBehaviour
         HelloJs(GameObject.Find("InputField (TMP)").GetComponent<TMP_InputField>().text);
 #endif
     }
-
+    
 }
